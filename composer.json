@@ -1,0 +1,17 @@
+{
+    "name": "fiachehr/alzura",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jafar Pourmojib",
+            "email": "fiachehr.job@gmail.com"
+        }
+    ],
+    "require": {
+        "wanfeiyy/dd": "^1.0"
+    }
+}
